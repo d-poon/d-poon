@@ -90,7 +90,7 @@ California State University, Sacramento
 
 ## 📫 Contact
 
-- LinkedIn: [https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/dennisypoon/)
+- LinkedIn: https://www.linkedin.com/in/dennisypoon/
 - GitHub: https://github.com/d-poon
 
 ## 📂 Projects
